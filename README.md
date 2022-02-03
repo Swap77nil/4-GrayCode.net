@@ -22,3 +22,7 @@ namespace Exercises<br>
         }<br>
     }<br>
 }<br>
+
+OUTPUT:-
+![Screenshot (7)](https://user-images.githubusercontent.com/98145032/152290447-4ebf7060-608d-4c56-83c3-c24ce60bfdfd.png)
+
